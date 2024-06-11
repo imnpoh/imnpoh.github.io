@@ -204,7 +204,7 @@ FROM
 
 ```
 
-![Row count check](assets/images/)
+![Row count check](assets/images/Row_Count.png)
 
 
 
@@ -224,7 +224,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/)
+![Column count check](assets/images/Column_Count.png)
 
 
 
@@ -245,7 +245,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/)
+![Data type check](assets/images/Data_Check.png)
 
 
 ## Duplicate count check
@@ -273,4 +273,4 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-![Duplicate count check](assets/images/)
+![Duplicate count check](assets/images/Dup_Count.png)
