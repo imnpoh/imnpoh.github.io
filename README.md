@@ -615,4 +615,5 @@ We'll be in touch with the marketing department and discussing the future and na
   
 ### Credit and Reference
 Youtube Link: [see here to find it.](https://www.youtube.com/watch?v=mm_sN-Elplg&t=4221s&ab_channel=Stephen%7CData)
+Note: In case link don't work, https://www.youtube.com/watch?v=mm_sN-Elplg&t=4221s&ab_channel=Stephen%7CData
 
