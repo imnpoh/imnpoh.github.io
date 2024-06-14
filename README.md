@@ -614,4 +614,5 @@ We'll be in touch with the marketing department and discussing the future and na
 - Not to mention the possibility to create a circle of community within our own business area will also be part of the reason why partnertship in this case will be a great take
   
 ### Credit and Reference
-Youtube Link: [see here to find it.](https://youtu.be/mm_sN-Elplg?si=6czDWHk9FKUhcTcI)
+Youtube Link: [see here to find it.](https://www.youtube.com/watch?v=mm_sN-Elplg&t=4221s&ab_channel=Stephen%7CData)
+
