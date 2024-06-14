@@ -609,7 +609,9 @@ We'll be in touch with the marketing department and discussing the future and na
 6. Manage and expand partnership accordingly throughout the year (future plan)
 
 ### Conclusion
-- The value of digital marketing highly depends of the viewership and bargainig the control of mass production of media. Ensuring that viewers has the entertainment value fulfilled, slipping in marketing aspect (products of business) will not only enhance the engagement but also pull more attraction. Collaborating with others within the media fields be it Youtube, TikTok, Instagram and other platforms will definitely always be a plus due to the influence and access they have. Not to mention the possibility to create a circle of community within our own business area will also be part of the reason why partnertship in this case will be a great take.
+- The value of digital marketing highly depends of the viewership and bargainig the control of mass production of media. Ensuring that viewers has the entertainment value fulfilled, slipping in marketing aspect (products of business) will not only enhance the engagement but also pull more attraction
+- Collaborating with others within the media fields be it Youtube, TikTok, Instagram and other platforms will definitely always be a plus due to the influence and access they have
+- Not to mention the possibility to create a circle of community within our own business area will also be part of the reason why partnertship in this case will be a great take
   
 ### Credit and Reference
 Youtube Link: https://youtu.be/mm_sN-Elplg?si=6czDWHk9FKUhcTcI
