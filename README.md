@@ -275,14 +275,6 @@ HAVING
 ### Output
 ![Duplicate count check](asset/images/Dup_Count.png)
 
-## Results
-
-- What does the dashboard look like?
-
-![GIF of Power BI Dashboard](asset/images/Tables.png)
-
-This shows the Top UK Youtubers in 2024 so far. 
-
 
 ## DAX Measures
 
