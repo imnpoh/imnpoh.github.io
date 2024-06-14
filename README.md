@@ -1,5 +1,34 @@
 # imnpoh.github.io
-#Portfolio: Data Analysing Excel to PowerBi
+Portfolio: Data Analysing Excel to PowerBi
+
+# Table of contents 
+
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Stages](#stages)
+- [Design](#design)
+  - [Tools](#tools)
+- [Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data Exploration](#data-exploration)
+  - [Data Cleaning](#data-cleaning)
+  - [Transform the Data](#transform-the-data)
+  - [Create the SQL View](#create-the-sql-view)
+- [Testing](#testing)
+  - [Data Quality Tests](#data-quality-tests)
+- [Visualization](#visualization)
+  - [Results](#results)
+  - [DAX Measures](#dax-measures)
+- [Analysis](#analysis)
+  - [Findings](#findings)
+  - [Validation](#validation)
+  - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+  - [Potential ROI](#potential-roi)
+  - [Potential Courses of Actions](#action-plan)
+- [Conclusion](#conclusion)
+- [Credit and Reference](#credit-and-reference)
+
 
 # Objective 
 
@@ -579,5 +608,8 @@ We'll be in touch with the marketing department and discussing the future and na
 5. Analyze the content, drawback, and insight of the events to continue improving the products, services as well as other satisfactory issues
 6. Manage and expand partnership accordingly throughout the year (future plan)
 
+### Conclusion
+- The value of digital marketing highly depends of the viewership and bargainig the control of mass production of media. Ensuring that viewers has the entertainment value fulfilled, slipping in marketing aspect (products of business) will not only enhance the engagement but also pull more attraction. Collaborating with others within the media fields be it Youtube, TikTok, Instagram and other platforms will definitely always be a plus due to the influence and access they have. Not to mention the possibility to create a circle of community within our own business area will also be part of the reason why partnertship in this case will be a great take.
+  
 ### Credit and Reference
 Youtube Link: https://youtu.be/mm_sN-Elplg?si=6czDWHk9FKUhcTcI
