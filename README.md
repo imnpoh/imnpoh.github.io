@@ -1,5 +1,7 @@
 # imnpoh.github.io
 Portfolio: Data Analysing Excel to PowerBi
+# End Product:
+![Dash Board](asset/images/DashBoard.png)
 
 # Table of contents 
 
